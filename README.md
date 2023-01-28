@@ -28,7 +28,6 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   
   ### Contato
+E-mail: godinhopedro20@gmail.com
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](godinhopedro20@gmail.com)
-
-[Linkedin](www.linkedin.com/in/pedro-cauã-medeiros-godinho-a64729219)
+Linkedin: www.linkedin.com/in/pedro-cauã-medeiros-godinho-a64729219
