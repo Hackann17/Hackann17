@@ -27,6 +27,6 @@
   
   ### Contato
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](godinhopedro20@gmai.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](godinhopedro20@gmail.com)
 
 [Linkedin](www.linkedin.com/in/pedro-cauã-medeiros-godinho-a64729219)
